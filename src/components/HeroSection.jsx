@@ -1,5 +1,5 @@
 import { PROFILE } from "../constants"
-import profilepic from "../assets/bully.jpeg"
+import profilepic from "../assets/bullyprofilepic.jpg"
 
 const HeroSection = () => {
   return (
