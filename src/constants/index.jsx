@@ -70,33 +70,25 @@ export const SKILLS = [
   {
     icon: <RiReactjsLine className="text-4xl lg:text-6xl text-cyan-400" />,
     name: "React",
-    experience: "2+ years",
+    experience: "",
   },
   {
     icon: <TbBrandNextjs className="text-4xl lg:text-6xl text-white" />,
     name: "Next.js",
-    experience: "1+ year",
+    experience: "",
   },
   {
     icon: <SiMongodb className="text-4xl lg:text-6xl text-green-600" />,
     name: "MongoDB",
-    experience: "1.5+ years",
+    experience: "",
   },
-  {
-    icon: <DiRedis className="text-4xl lg:text-6xl text-red-600" />,
-    name: "Redis",
-    experience: "1+ year",
-  },
+  
   {
     icon: <FaNodeJs className="text-4xl lg:text-6xl text-green-600" />,
     name: "Node.js",
-    experience: "2+ years",
+    experience: "",
   },
-  {
-    icon: <BiLogoPostgresql className="text-4xl lg:text-6xl text-sky-700" />,
-    name: "PostgreSQL",
-    experience: "1+ year",
-  },
+  
 ];
 
 export const ACHIEVEMENT = {

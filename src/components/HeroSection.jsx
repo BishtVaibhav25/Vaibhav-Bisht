@@ -4,7 +4,7 @@ import profilepic from "../assets/bullyprofilepic.jpg"
 const HeroSection = () => {
   return (
     <>
-    <div className="relative flex min-h-screen items-end justify-center" id="hero">
+    <div className="relative flex min-h-screen items-end justify-center mt-40" id="hero">
         <img src={profilepic} alt={PROFILE.name} className="absolute inset-0 z-10 h-full w-full object-cover"/>
         <div className="absolute inset-0 z-10 bg-gradient-to-b from-transparent from-60% to black lg:from-30%"></div>
         <div className="z-20 mx-4 mx-w-3xl pb-20">
